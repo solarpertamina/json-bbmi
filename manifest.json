@@ -1,0 +1,36 @@
+{
+    "theme_color": "#b51200",
+    "background_color": "#fff",
+    "display": "standalone",
+    "start_url": "https://www.bbmindustri.com/",
+    "prefer_related_applications": false,
+    "name": "bbmindustri.com",
+    "short_name": "bbmindustri.com",
+    "description": "WA 082233844007 PT Patra Sinergi Logistik | Distributor Supplier Agen Jual Beli Resmi Harga BBM Bio Solar Industri Non Subsidi Murah Terbaru Hari ini",
+    "icons": [
+        {
+            "src": "https://raw.githubusercontent.com/solarpertamina/json-bbmi/refs/heads/main/android-launchericon-192-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/solarpertamina/json-bbmi/refs/heads/main/android-launchericon-192-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/solarpertamina/json-bbmi/refs/heads/main/android-launchericon-512-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/solarpertamina/json-bbmi/refs/heads/main/android-launchericon-512-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
